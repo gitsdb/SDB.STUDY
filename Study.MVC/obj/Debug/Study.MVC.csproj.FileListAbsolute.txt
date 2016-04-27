@@ -48,6 +48,5 @@ E:\ProjectTest\SDB.STUDY\Study.MVC\bin\System.Web.WebPages.Deployment.xml
 E:\ProjectTest\SDB.STUDY\Study.MVC\bin\System.Web.WebPages.Razor.xml
 E:\ProjectTest\SDB.STUDY\Study.MVC\bin\Antlr3.Runtime.pdb
 E:\ProjectTest\SDB.STUDY\Study.MVC\bin\Newtonsoft.Json.xml
-E:\ProjectTest\SDB.STUDY\Study.MVC\obj\Debug\Study.MVC.csprojResolveAssemblyReference.cache
 E:\ProjectTest\SDB.STUDY\Study.MVC\obj\Debug\Study.MVC.dll
 E:\ProjectTest\SDB.STUDY\Study.MVC\obj\Debug\Study.MVC.pdb

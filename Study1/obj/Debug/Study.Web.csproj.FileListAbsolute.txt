@@ -74,6 +74,5 @@ E:\ProjectTest\SDB.STUDY\Study1\bin\Microsoft.Owin.Security.Google.xml
 E:\ProjectTest\SDB.STUDY\Study1\bin\Microsoft.Owin.Security.Twitter.xml
 E:\ProjectTest\SDB.STUDY\Study1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 E:\ProjectTest\SDB.STUDY\Study1\bin\Microsoft.Owin.Security.OAuth.xml
-E:\ProjectTest\SDB.STUDY\Study1\obj\Debug\Study.Web.csprojResolveAssemblyReference.cache
 E:\ProjectTest\SDB.STUDY\Study1\obj\Debug\Study1.dll
 E:\ProjectTest\SDB.STUDY\Study1\obj\Debug\Study1.pdb

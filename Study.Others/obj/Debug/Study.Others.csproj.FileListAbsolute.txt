@@ -1,0 +1,4 @@
+E:\ProjectTest\SDB.STUDY\Study.Others\bin\Debug\Study.Others.dll
+E:\ProjectTest\SDB.STUDY\Study.Others\bin\Debug\Study.Others.pdb
+E:\ProjectTest\SDB.STUDY\Study.Others\obj\Debug\Study.Others.dll
+E:\ProjectTest\SDB.STUDY\Study.Others\obj\Debug\Study.Others.pdb

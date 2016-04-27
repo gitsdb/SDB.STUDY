@@ -12,7 +12,7 @@ namespace Study.Others
     public class SingleDemo
     {
 
-      
+
     }
 
     /// <summary>
@@ -27,6 +27,7 @@ namespace Study.Others
             if (_instance == null)
             {
                 _instance = new SingletonA();
+
             }
             return _instance;
         }
@@ -40,7 +41,6 @@ namespace Study.Others
     {
         private volatile static SingletonB _instance = null;
         private static readonly object lockHelper = new object();
-        private SingletonB() { }
         public static SingletonB CreateInstance()
         {
             if (_instance == null)
@@ -109,6 +109,7 @@ namespace Study.Others
         private void dosomething()
         {
             SingletonProvider<TestClass>.Instance.Write();
+
         }
     }
 

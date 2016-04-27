@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.MVC", "Study.MVC\Stud
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.Others", "Study.Others\Study.Others.csproj", "{08FC99B2-6CA6-40EB-890D-E25152209F0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.WindowsServiceTest", "Study.WindowsServiceTest\Study.WindowsServiceTest.csproj", "{655433A1-3853-4201-BB86-4D1F6818AED1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.Quartz.Net.Demo", "Study.Quartz.Net.Demo\Study.Quartz.Net.Demo.csproj", "{82DBDDE6-5303-41BE-997F-49838418B9B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{08FC99B2-6CA6-40EB-890D-E25152209F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08FC99B2-6CA6-40EB-890D-E25152209F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08FC99B2-6CA6-40EB-890D-E25152209F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{655433A1-3853-4201-BB86-4D1F6818AED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{655433A1-3853-4201-BB86-4D1F6818AED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{655433A1-3853-4201-BB86-4D1F6818AED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{655433A1-3853-4201-BB86-4D1F6818AED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82DBDDE6-5303-41BE-997F-49838418B9B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82DBDDE6-5303-41BE-997F-49838418B9B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82DBDDE6-5303-41BE-997F-49838418B9B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82DBDDE6-5303-41BE-997F-49838418B9B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

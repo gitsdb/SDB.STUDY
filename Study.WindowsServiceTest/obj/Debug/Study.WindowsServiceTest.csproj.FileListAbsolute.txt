@@ -1,0 +1,13 @@
+E:\ProjectTest\SDB.STUDY\Study.WindowsServiceTest\bin\Debug\quartz_jobs.xml
+E:\ProjectTest\SDB.STUDY\Study.WindowsServiceTest\bin\Debug\quartz.config
+E:\ProjectTest\SDB.STUDY\Study.WindowsServiceTest\bin\Debug\Study.WindowsServiceTest.exe.config
+E:\ProjectTest\SDB.STUDY\Study.WindowsServiceTest\bin\Debug\Study.WindowsServiceTest.exe
+E:\ProjectTest\SDB.STUDY\Study.WindowsServiceTest\bin\Debug\Study.WindowsServiceTest.pdb
+E:\ProjectTest\SDB.STUDY\Study.WindowsServiceTest\bin\Debug\C5.dll
+E:\ProjectTest\SDB.STUDY\Study.WindowsServiceTest\bin\Debug\Common.Logging.dll
+E:\ProjectTest\SDB.STUDY\Study.WindowsServiceTest\bin\Debug\log4net.dll
+E:\ProjectTest\SDB.STUDY\Study.WindowsServiceTest\bin\Debug\Quartz.dll
+E:\ProjectTest\SDB.STUDY\Study.WindowsServiceTest\obj\Debug\Study.WindowsServiceTest.ProjectInstaller.resources
+E:\ProjectTest\SDB.STUDY\Study.WindowsServiceTest\obj\Debug\Study.WindowsServiceTest.csproj.GenerateResource.Cache
+E:\ProjectTest\SDB.STUDY\Study.WindowsServiceTest\obj\Debug\Study.WindowsServiceTest.exe
+E:\ProjectTest\SDB.STUDY\Study.WindowsServiceTest\obj\Debug\Study.WindowsServiceTest.pdb
