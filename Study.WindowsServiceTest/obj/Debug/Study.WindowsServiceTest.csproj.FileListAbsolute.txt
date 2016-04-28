@@ -11,3 +11,4 @@ E:\ProjectTest\SDB.STUDY\Study.WindowsServiceTest\obj\Debug\Study.WindowsService
 E:\ProjectTest\SDB.STUDY\Study.WindowsServiceTest\obj\Debug\Study.WindowsServiceTest.csproj.GenerateResource.Cache
 E:\ProjectTest\SDB.STUDY\Study.WindowsServiceTest\obj\Debug\Study.WindowsServiceTest.exe
 E:\ProjectTest\SDB.STUDY\Study.WindowsServiceTest\obj\Debug\Study.WindowsServiceTest.pdb
+E:\ProjectTest\SDB.STUDY\Study.WindowsServiceTest\obj\Debug\Study.WindowsServiceTest.csprojResolveAssemblyReference.cache
