@@ -13,11 +13,11 @@ namespace Study.Console
     {
         static void Main(string[] args)
         {
-            ISchedulerFactory schedulerFactory = new StdSchedulerFactory();
-            IScheduler scheduler = schedulerFactory.GetScheduler();
-            scheduler.Start();          
-            System.Console.WriteLine("Quartz服务成功启动");
-            System.Console.ReadLine();
+            //ISchedulerFactory schedulerFactory = new StdSchedulerFactory();
+            //IScheduler scheduler = schedulerFactory.GetScheduler();
+            //scheduler.Start();          
+            //System.Console.WriteLine("Quartz服务成功启动");
+            //System.Console.ReadLine();
         }
     }
 }
