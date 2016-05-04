@@ -1,0 +1,66 @@
+﻿2016-04-28 11:19:29,552 ERROR Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin - Error scheduling jobs: 未能从程序集“Study.Quartz.Net.Demo”中加载类型“Study.Quartz.Net.Demo.DemoJob1”。
+System.TypeLoadException: 未能从程序集“Study.Quartz.Net.Demo”中加载类型“Study.Quartz.Net.Demo.DemoJob1”。
+   在 System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMarkHandle stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName, ObjectHandleOnStack type)
+   在 System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName)
+   在 System.RuntimeType.GetType(String typeName, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark)
+   在 System.Type.GetType(String typeName, Boolean throwOnError)
+   在 Quartz.Simpl.SimpleTypeLoadHelper.LoadType(String name)
+   在 Quartz.Xml.XMLSchedulingDataProcessor.ProcessInternal(String xml)
+   在 Quartz.Xml.XMLSchedulingDataProcessor.ProcessFile(String fileName, String systemId)
+   在 Quartz.Xml.XMLSchedulingDataProcessor.ProcessFileAndScheduleJobs(String fileName, String systemId, IScheduler sched)
+   在 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin.ProcessFile(JobFile jobFile)
+2016-04-28 11:21:54,274 ERROR Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin - Error scheduling jobs: 未能从程序集“Study.Quartz.Net.Demo”中加载类型“Study.Quartz.Net.Demo.DemoJob1”。
+System.TypeLoadException: 未能从程序集“Study.Quartz.Net.Demo”中加载类型“Study.Quartz.Net.Demo.DemoJob1”。
+   在 System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMarkHandle stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName, ObjectHandleOnStack type)
+   在 System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName)
+   在 System.RuntimeType.GetType(String typeName, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark)
+   在 System.Type.GetType(String typeName, Boolean throwOnError)
+   在 Quartz.Simpl.SimpleTypeLoadHelper.LoadType(String name)
+   在 Quartz.Xml.XMLSchedulingDataProcessor.ProcessInternal(String xml)
+   在 Quartz.Xml.XMLSchedulingDataProcessor.ProcessFile(String fileName, String systemId)
+   在 Quartz.Xml.XMLSchedulingDataProcessor.ProcessFileAndScheduleJobs(String fileName, String systemId, IScheduler sched)
+   在 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin.ProcessFile(JobFile jobFile)
+2016-04-28 11:23:27,641 ERROR Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin - Error scheduling jobs: 未能从程序集“Study.Quartz.Net.Demo”中加载类型“Study.Quartz.Net.Demo.DemoJob1”。
+System.TypeLoadException: 未能从程序集“Study.Quartz.Net.Demo”中加载类型“Study.Quartz.Net.Demo.DemoJob1”。
+   在 System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMarkHandle stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName, ObjectHandleOnStack type)
+   在 System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName)
+   在 System.RuntimeType.GetType(String typeName, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark)
+   在 System.Type.GetType(String typeName, Boolean throwOnError)
+   在 Quartz.Simpl.SimpleTypeLoadHelper.LoadType(String name)
+   在 Quartz.Xml.XMLSchedulingDataProcessor.ProcessInternal(String xml)
+   在 Quartz.Xml.XMLSchedulingDataProcessor.ProcessFile(String fileName, String systemId)
+   在 Quartz.Xml.XMLSchedulingDataProcessor.ProcessFileAndScheduleJobs(String fileName, String systemId, IScheduler sched)
+   在 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin.ProcessFile(JobFile jobFile)
+2016-04-28 11:34:27,404 ERROR Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin - Error scheduling jobs: 未能从程序集“Study.Quartz.Net.Demo”中加载类型“Study.Quartz.Net.Demo.DemoJob1”。
+System.TypeLoadException: 未能从程序集“Study.Quartz.Net.Demo”中加载类型“Study.Quartz.Net.Demo.DemoJob1”。
+   在 System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMarkHandle stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName, ObjectHandleOnStack type)
+   在 System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName)
+   在 System.RuntimeType.GetType(String typeName, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark)
+   在 System.Type.GetType(String typeName, Boolean throwOnError)
+   在 Quartz.Simpl.SimpleTypeLoadHelper.LoadType(String name)
+   在 Quartz.Xml.XMLSchedulingDataProcessor.ProcessInternal(String xml)
+   在 Quartz.Xml.XMLSchedulingDataProcessor.ProcessFile(String fileName, String systemId)
+   在 Quartz.Xml.XMLSchedulingDataProcessor.ProcessFileAndScheduleJobs(String fileName, String systemId, IScheduler sched)
+   在 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin.ProcessFile(JobFile jobFile)
+2016-04-28 11:36:04,002 ERROR Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin - Error scheduling jobs: 未能从程序集“Study.Quartz.Net.Demo”中加载类型“Study.Quartz.Net.Demo.DemoJob1”。
+System.TypeLoadException: 未能从程序集“Study.Quartz.Net.Demo”中加载类型“Study.Quartz.Net.Demo.DemoJob1”。
+   在 System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMarkHandle stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName, ObjectHandleOnStack type)
+   在 System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName)
+   在 System.RuntimeType.GetType(String typeName, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark)
+   在 System.Type.GetType(String typeName, Boolean throwOnError)
+   在 Quartz.Simpl.SimpleTypeLoadHelper.LoadType(String name)
+   在 Quartz.Xml.XMLSchedulingDataProcessor.ProcessInternal(String xml)
+   在 Quartz.Xml.XMLSchedulingDataProcessor.ProcessFile(String fileName, String systemId)
+   在 Quartz.Xml.XMLSchedulingDataProcessor.ProcessFileAndScheduleJobs(String fileName, String systemId, IScheduler sched)
+   在 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin.ProcessFile(JobFile jobFile)
+2016-04-28 11:38:42,141 ERROR Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin - Error scheduling jobs: 未能从程序集“Study.Quartz.Net.Demo”中加载类型“Study.Quartz.Net.Demo.Demojob2”。
+System.TypeLoadException: 未能从程序集“Study.Quartz.Net.Demo”中加载类型“Study.Quartz.Net.Demo.Demojob2”。
+   在 System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMarkHandle stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName, ObjectHandleOnStack type)
+   在 System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName)
+   在 System.RuntimeType.GetType(String typeName, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark)
+   在 System.Type.GetType(String typeName, Boolean throwOnError)
+   在 Quartz.Simpl.SimpleTypeLoadHelper.LoadType(String name)
+   在 Quartz.Xml.XMLSchedulingDataProcessor.ProcessInternal(String xml)
+   在 Quartz.Xml.XMLSchedulingDataProcessor.ProcessFile(String fileName, String systemId)
+   在 Quartz.Xml.XMLSchedulingDataProcessor.ProcessFileAndScheduleJobs(String fileName, String systemId, IScheduler sched)
+   在 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin.ProcessFile(JobFile jobFile)

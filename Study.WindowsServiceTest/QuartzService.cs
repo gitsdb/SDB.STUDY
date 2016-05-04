@@ -16,34 +16,27 @@ namespace Study.WindowsServiceTest
 {
     public partial class QuartzService : ServiceBase
     {
-       // private readonly ILog logger;
+        private readonly ILog logger;
         private IScheduler scheduler;
 
         public QuartzService()
         {
-            this.AddTextLine("End .NET RemotingInterface1111111111111");
             InitializeComponent();
-            this.AddTextLine("End .NET RemotingInterface22222222222222");
-            // logger = LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
-            //ISchedulerFactory schedulerFactory = new StdSchedulerFactory();
-            this.AddTextLine("End .NET RemotingInterface333333333333333");
-            scheduler = StdSchedulerFactory.GetDefaultScheduler(); // schedulerFactory.GetDefaultScheduler();
-           // StdSchedulerFactory.GetDefaultScheduler();
-            this.AddTextLine("End .NET RemotingInterface444444444444444444");
+            logger = LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
+            ISchedulerFactory schedulerFactory = new StdSchedulerFactory();           
+            //scheduler = StdSchedulerFactory.GetDefaultScheduler(); // schedulerFactory.GetDefaultScheduler();        
         }
 
         protected override void OnStart(string[] args)
         {
-            this.AddTextLine("1e");
             scheduler.Start();
-            this.AddTextLine("2");
-            // logger.Info("Quartz服务成功启动");
+             logger.Info("Quartz服务成功启动");
         }
 
         protected override void OnStop()
         {
             scheduler.Shutdown(false);
-           // logger.Info("Quartz服务成功终止");
+            logger.Info("Quartz服务成功终止");
         }
 
         protected override void OnPause()

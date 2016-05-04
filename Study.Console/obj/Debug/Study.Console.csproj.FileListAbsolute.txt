@@ -1,0 +1,15 @@
+E:\ProjectTest\SDB.STUDY\Study.Console\bin\Debug\Study.Console.exe.config
+E:\ProjectTest\SDB.STUDY\Study.Console\bin\Debug\Study.Console.exe
+E:\ProjectTest\SDB.STUDY\Study.Console\bin\Debug\Study.Console.pdb
+E:\ProjectTest\SDB.STUDY\Study.Console\bin\Debug\Quartz.dll
+E:\ProjectTest\SDB.STUDY\Study.Console\bin\Debug\Study.Quartz.Net.Demo.dll
+E:\ProjectTest\SDB.STUDY\Study.Console\bin\Debug\Common.Logging.dll
+E:\ProjectTest\SDB.STUDY\Study.Console\bin\Debug\log4net.dll
+E:\ProjectTest\SDB.STUDY\Study.Console\bin\Debug\C5.dll
+E:\ProjectTest\SDB.STUDY\Study.Console\bin\Debug\Study.Quartz.Net.Demo.pdb
+E:\ProjectTest\SDB.STUDY\Study.Console\obj\Debug\Study.Console.csprojResolveAssemblyReference.cache
+E:\ProjectTest\SDB.STUDY\Study.Console\obj\Debug\Study.Console.exe
+E:\ProjectTest\SDB.STUDY\Study.Console\obj\Debug\Study.Console.pdb
+E:\ProjectTest\SDB.STUDY\Study.Console\bin\Debug\quartz_jobs.xml
+E:\ProjectTest\SDB.STUDY\Study.Console\bin\Debug\quartz.config
+E:\ProjectTest\SDB.STUDY\Study.Console\bin\Debug\Common.Logging.Log4Net.dll

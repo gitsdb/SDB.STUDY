@@ -6,3 +6,4 @@ E:\ProjectTest\SDB.STUDY\Study.Quartz.Net.Demo\bin\Debug\Quartz.dll
 E:\ProjectTest\SDB.STUDY\Study.Quartz.Net.Demo\bin\Debug\C5.dll
 E:\ProjectTest\SDB.STUDY\Study.Quartz.Net.Demo\obj\Debug\Study.Quartz.Net.Demo.dll
 E:\ProjectTest\SDB.STUDY\Study.Quartz.Net.Demo\obj\Debug\Study.Quartz.Net.Demo.pdb
+E:\ProjectTest\SDB.STUDY\Study.Quartz.Net.Demo\bin\Debug\Common.Logging.Log4Net.dll
