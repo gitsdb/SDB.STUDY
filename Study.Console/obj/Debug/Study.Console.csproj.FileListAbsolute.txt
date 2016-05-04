@@ -1,4 +1,3 @@
-E:\ProjectTest\SDB.STUDY\Study.Console\bin\Debug\Study.Console.exe.config
 E:\ProjectTest\SDB.STUDY\Study.Console\bin\Debug\Study.Console.exe
 E:\ProjectTest\SDB.STUDY\Study.Console\bin\Debug\Study.Console.pdb
 E:\ProjectTest\SDB.STUDY\Study.Console\bin\Debug\Quartz.dll
